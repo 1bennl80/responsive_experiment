@@ -1,5 +1,7 @@
 # Responsive Experiment
 
+<br>
+
 ##BBC News Homepage
 
 Below is an example of responsive design in action on the  [BBC News website](https://www.bbc.co.uk/)
@@ -10,7 +12,7 @@ Below is an example of responsive design in action on the  [BBC News website](ht
 - As the screen size decreases the layout of the new stories changes depending on screen size. 
 - The horizontal menu bar shrinks to fit the new screen resolution. 
 
-
+<br>
 
 ##Youtube Homepage
 
@@ -22,7 +24,7 @@ Below is an example of responsive design in action on the  [Youtube Homepage](ht
 - As the screen resolution, youtube puts more focus on the actual websites content and removes all unnecessary options. 
 - The menu bar moves from the left hand side to top centre and consists of viewer options on smaller resolution devices.
 
-
+<br>
 
 
 ##Twitch.tv Homepage
